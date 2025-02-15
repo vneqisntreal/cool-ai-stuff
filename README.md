@@ -55,6 +55,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | [Skailar](https://discord.gg/2n5AuCF3bD)   | 463            | ❌ Forbidden    | ✅ [Here](https://github.com/zukijourney/example-api) | [Aquadraws](https://test.skailar.it/) | [Models](https://api.skailar.it/v1/models)          | One of the oldest APIs. Stability and maintainer involvement are questionable.                  |
 | [VoidAI](https://discord.gg/2nQwkvFFj6)    | 305            | ✅ Limited      | ❌                                                    | [acatto](https://github.com/acattoXD) | [Models](https://api.voidai.xyz/v1/models)          | An odd api with historically some other ai-related projects. Now focused on just APIs it seems. |
 | [HareProxy](https://discord.gg/rpURd3jaRf) | 261            | ✅ Allowed      | ✅ [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945) | [Models](https://unified.hareproxy.io.vn/v1/models) | Offers unique endpoints for each model type. Owner self-proclaimes to be unable to code.        |
+| [Ozone AI](https://discord.gg/ozone) | 159            | ✅ Allowed      | ✅ [Here](https://github.com/vneqisntreal/ozone-oss) | [Vneq](https://github.com/vneqisntreal) | [Models](https://api.ozone-ai.com/v1/models) | A small AI API with good stability and a decent model selection.        |
 
 ---
 
